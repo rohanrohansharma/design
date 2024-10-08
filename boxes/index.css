@@ -1,0 +1,81 @@
+.color_boxes{
+    display:flex;
+    gap:20px;
+}
+.inner_boxes{
+
+}
+.cus_box{
+    height:60px;
+    width:60px;
+}
+.cus_Licht{
+    background-color: #b4afa9;  
+}
+.cus_bruin{
+    background-color: #493a37 ;
+}
+.cus_roze{
+    background-color: #dcbeba ;
+}
+.cus_blauw{
+    background-color: #bac3c8 ;
+}
+.cus_Turquoise{
+    background-color: #006366;
+}
+.cus_Beige{
+    background-color: #c3baa8;
+}
+.cus_Antraciet{
+    background-color: #332f2c;
+}
+.cus_Zwart{
+    background-color: #190000;
+}
+
+
+
+
+
+.cus_Beige_velvet{
+    background-color: #e3d7c9;
+}
+.cus_Taupe_velvet{
+    background-color: #877d74;
+}
+
+.cus_Blauw_velvet{
+    background-color: #2b2b4d;
+}
+
+.cus_Donker_velvet{
+    background-color: #232e26;
+}
+
+.cus_Oker_velvet{
+    background-color: #f7a63b;
+}
+
+.cus_Roze_velvet{
+    background-color: #dfa59a;
+}
+
+.cus_Grijs_velvet{
+    background-color: #6b6263;
+}
+
+.cus_Zwart_velvet{
+    background-color: #241e1e;
+}
+
+
+.box_title{
+    font-size: 25px;
+}
+
+
+.box_cus_text{
+    display: flex;
+    justify-content: center;
+}
